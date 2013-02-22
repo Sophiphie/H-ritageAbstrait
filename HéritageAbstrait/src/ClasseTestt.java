@@ -6,7 +6,7 @@ public class ClasseTestt
 	public static void main(String[] args) 
 	{
 		
-		    Chien c = new Chien("Gris bleuté", 20);
+		    Chien c = new Chien("Gris vert", 20);
 		    c.boire();
 		    c.manger();
 		    c.deplacement();
