@@ -11,7 +11,7 @@ public class Lion extends Félin
 	  }       
 	 
 	  void crier() {
-	    System.out.println("Je rugis dans la savane !");
+	    System.out.println("Je rugis dans la savane!");
 	  } 
 
 }

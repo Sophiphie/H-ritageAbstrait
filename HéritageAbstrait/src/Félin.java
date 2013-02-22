@@ -2,6 +2,6 @@
 abstract class Félin extends Animal
 {
 	void deplacement() {
-	    System.out.println("Je me déplace seul !");
+	    System.out.println("Je me déplace tout seul !");
 	  } 
 }

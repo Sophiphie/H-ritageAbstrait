@@ -10,7 +10,7 @@ public class Tigre extends Félin
 	  }
 	        
 	  void crier() {
-	    System.out.println("Je grogne très fort !");
+	    System.out.println("Je fais grrr grrr !");
 	  } 
 
 }

@@ -11,7 +11,7 @@ public class Chien extends Canin implements Rintintin
 	  }       
 
 	  void crier() {
-	    System.out.println("J'aboie sans raison !");
+	    System.out.println("Je fais ouaf ouaf");
 	  }
 	  
 	 public void faireCalin() {

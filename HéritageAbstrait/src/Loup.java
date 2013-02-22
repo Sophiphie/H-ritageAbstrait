@@ -11,7 +11,7 @@ public class Loup extends Canin
 	  }       
 	 
 	  void crier() {
-	    System.out.println("Je hurle à la Lune en faisant ouhouh !"); 
+	    System.out.println("Je fais ouhouh !"); 
 	  }
 
 }
